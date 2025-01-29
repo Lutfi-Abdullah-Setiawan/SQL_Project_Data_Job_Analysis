@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "SQL_Project_Data_Job_Analysis",
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"username": "postgres",
+				"database": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		]
+	}
+}
